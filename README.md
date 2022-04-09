@@ -1,4 +1,4 @@
 **I'm eating cookies**
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokuga-cpu&show_icons=true&theme=cobalt)
 
